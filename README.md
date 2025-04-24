@@ -1,8 +1,7 @@
 # Icecast Stream Bandwidth Calculator
 
 A simple, user-friendly web tool to calculate listener capacity for Icecast audio streams based on bitrate and available bandwidth.
-
-![Icecast Stream Bandwidth Calculator](https://user-images.githubusercontent.com/your-username/your-repo/screenshot.png)
+https://mbuholzer.github.io/streamcalculator/
 
 ## Description
 
@@ -43,7 +42,7 @@ No installation required! This is a standalone HTML file that works in any moder
 ### To run locally:
 
 1. Clone this repository:
-`git clone https://github.com/your-username/icecast-bandwidth-calculator.git`
+`git clone https://github.com/mbuholzer/streamcalculator.git`
 2. Open `index.html` in your web browser
 
 ### To deploy to your website:
@@ -82,5 +81,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-Project Link: [https://github.com/your-username/icecast-bandwidth-calculator](https://github.com/your-username/icecast-bandwidth-calculator)
+Michael Buholzer
+Project Link: https://github.com/mbuholzer/streamcalculator
